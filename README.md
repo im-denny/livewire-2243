@@ -15,8 +15,10 @@ It is stored at `app/Http/Livewire/FileUpload.php` and `resources/views/livewire
 2. Run `composer install`
 3. Run `cp .env.example .env`
 4. Run `php artisan key:generate`
-3. Run `php artisan serve`
-4. Open site in browser on served url
+5. Run `php artisan serve`
+6. Open site in browser on served url and you will see the UI as below
+
+![Homepage](https://raw.githubusercontent.com/im-denny/livewire-2243/master/public/img/Homepage.png)
 
 ## Details
 
