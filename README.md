@@ -13,6 +13,8 @@ It is stored at `app/Http/Livewire/FileUpload.php` and `resources/views/livewire
 
 1. Clone the `master` branch of this repo
 2. Run `composer install`
+3. Run `cp .env.example .env`
+4. Run `php artisan key:generate`
 3. Run `php artisan serve`
 4. Open site in browser on served url
 
